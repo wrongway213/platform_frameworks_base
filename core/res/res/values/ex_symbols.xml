@@ -271,6 +271,10 @@
   <!-- Omni switch -->
   <java-symbol type="anim" name="last_app_in" /> 
   <java-symbol type="anim" name="last_app_out" />
+
+  <!-- On-The-Go -->
+  <java-symbol type="drawable" name="ic_lock_onthego" />
+
 </resources>
 
 
